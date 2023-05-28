@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manoj Mukherjee</h1>
 <h3 align="center">Building Innovative Solutions and Experiences: Solution Architect & Frontend Engineer from Bangalore, India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2manoj1&label=Profile%20views&color=0e75b6&style=flat" alt="2manoj1" /> </p>
+
+
+<div align="center">
+<img src="https://github.com/2manoj1/2manoj1/assets/15128569/7931a4bd-da23-43e6-8787-918543c3a0e5" alt="Developer doing coding" />
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2manoj1" alt="2manoj1" /></a> </p>
 
