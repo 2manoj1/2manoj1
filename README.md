@@ -9,11 +9,13 @@
 
 - 🌱 I’m currently learning **Framer**
 
-- 📝 I regularly write articles on [https://medium.com/@manojmukherjee777](https://medium.com/@manojmukherjee777)
+- 💞️ I’m looking to collaborate on **guide and learning together or share experience in youtube.**
+- 
+- 📫 How to reach me - [Linkedin](https://www.linkedin.com/in/manoj-mukherjee), [Twitter](https://twitter.com/ManojMukherje19) & **manojmukherjee777@gmail.com**
+
+- 📝 I regularly write articles on [Medium blog](https://medium.com/@manojmukherjee777)
 
 - 💬 Ask me about **React, Nextjs and Nodejs**
-
-- 📫 How to reach me **manojmukherjee777@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/manoj-mukherjee/](https://www.linkedin.com/in/manoj-mukherjee/)
 
