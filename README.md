@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Framer**
 
 - 💞️ I’m looking to collaborate on **guide and learning together or share experience in youtube.**
-- 
+
 - 📫 How to reach me - [Linkedin](https://www.linkedin.com/in/manoj-mukherjee), [Twitter](https://twitter.com/ManojMukherje19) & **manojmukherjee777@gmail.com**
 
 - 📝 I regularly write articles on [Medium blog](https://medium.com/@manojmukherjee777)
