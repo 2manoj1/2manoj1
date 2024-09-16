@@ -2,7 +2,7 @@
 <h3 align="center">Innovating Experiences: Frontend Engineer & Emerging GEN AI Enthusiast from Bangalore, India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=2manoj1&label=Profile%20Views&color=0e75b6&style=flat" alt="2manoj1" />
+  <img src="https://komarev.com/ghpvc/?username=2manoj1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Viewer count" />
   <a href="https://x.com/2manoj1"><img src="https://img.shields.io/twitter/follow/2manoj1" alt="2manoj1" /></a>
 </p>
 
